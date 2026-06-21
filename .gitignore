@@ -1,0 +1,8 @@
+# Go build outputs
+goserver
+
+# Local/env files
+.env
+
+
+
